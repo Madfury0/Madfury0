@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on RL game playing agents
 - 📫 How to reach me home@local
 - 😄 Pronouns: He/Him/It
-- ⚡ Fun fact: Fun is actually a fact.
+- ⚡ Fun fact: Learning is actually fun.
 
 <!---
 Madfury0/Madfury0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
