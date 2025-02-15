@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @Madfury0
-- 👀 I’m interested in AI, Robotics, Cybersecurity, CTFs
-- 🌱 I’m currently learning Reinforcement Learning
-- 💞️ I’m looking to collaborate on RL game playing agents
-- 📫 How to reach me home@local
-- 😄 Pronouns: He/Him/It
-- ⚡ Fun fact: Learning is actually fun.
+#EN ROUTE TO BUILDING THE NEXT SKYNET AND BUNCH OF TERMINATORS
 
-<!---
-Madfury0/Madfury0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##WAIT, ALLOW ME INTRODUCE MYSELF:
+
+I DO NOT [EXIST](https://www.linkedin.com/in/kelvin-karani)
+
+
+I ENJOY [EMBEDDED SYSTEMS](https://en.m.wikipedia.org/wiki/Embedded_system) FIRMWARE AND HARDWARE DESIGN IN
+> [STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
+> [ESP32](https://www.espressif.com/en/products/socs/esp32)
+> [RASPBERRY PI](https://www.raspberrypi.com/)
+> [ARDUINO](https://www.arduino.cc/)
